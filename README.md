@@ -17,7 +17,6 @@ I'm developing my skills in **cloud engineering, DevOps and infrastructure autom
 -  **Latest project:** [Terraform + AWS ECS Fargate Pomodoro deployment](https://github.com/mohammed-972/terraform-ecs-pomodoro)
 -  **Currently working with:** AWS, Terraform, Docker, GitHub Actions, Linux and networking
 -  **Learning more about:** CI/CD, observability, cloud security and reliability
--  **Career goal:** Junior Cloud / DevOps / Infrastructure Engineering
 
 ##  Featured project — Terraform + ECS Pomodoro
 
