@@ -10,16 +10,16 @@
 
 </div>
 
-## 👋 About me
+## About me
 
 I'm developing my skills in **cloud engineering, DevOps and infrastructure automation** through hands-on projects. I enjoy taking an application from a local Docker build through to an automated AWS deployment, and learning how the networking, security and operational pieces fit together.
 
-- 🔭 **Latest project:** [Terraform + AWS ECS Fargate Pomodoro deployment](https://github.com/mohammed-972/terraform-ecs-pomodoro)
-- 🛠️ **Currently working with:** AWS, Terraform, Docker, GitHub Actions, Linux and networking
-- 🌱 **Learning more about:** CI/CD, observability, cloud security and reliability
-- 🎯 **Career goal:** Junior Cloud / DevOps / Infrastructure Engineering
+-  **Latest project:** [Terraform + AWS ECS Fargate Pomodoro deployment](https://github.com/mohammed-972/terraform-ecs-pomodoro)
+-  **Currently working with:** AWS, Terraform, Docker, GitHub Actions, Linux and networking
+-  **Learning more about:** CI/CD, observability, cloud security and reliability
+-  **Career goal:** Junior Cloud / DevOps / Infrastructure Engineering
 
-## 🚀 Featured project — Terraform + ECS Pomodoro
+##  Featured project — Terraform + ECS Pomodoro
 
 <div align="center">
 
@@ -65,7 +65,7 @@ I built and deployed a containerised **Pomodoro timer application** on **Amazon 
 
 **Explore the implementation:** [Application](https://github.com/mohammed-972/terraform-ecs-pomodoro/tree/main/app) · [Terraform infrastructure](https://github.com/mohammed-972/terraform-ecs-pomodoro/tree/main/infra) · [GitHub Actions workflows](https://github.com/mohammed-972/terraform-ecs-pomodoro/tree/main/.github/workflows) · [Full project README](https://github.com/mohammed-972/terraform-ecs-pomodoro#readme)
 
-## 🧰 Tools & technologies
+##  Tools & technologies
 
 <div align="center">
 
@@ -82,7 +82,7 @@ I built and deployed a containerised **Pomodoro timer application** on **Amazon 
 
 </div>
 
-## 📊 GitHub activity
+##  GitHub activity
 
 <div align="center">
 
@@ -93,7 +93,7 @@ I built and deployed a containerised **Pomodoro timer application** on **Amazon 
 
 </div>
 
-## 🐍 Contributions in motion
+##  Contributions in motion
 
 <div align="center">
 
@@ -107,14 +107,14 @@ I built and deployed a containerised **Pomodoro timer application** on **Amazon 
 
 </div>
 
-## 🤝 Connect & explore
+##  Connect & explore
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/Browse_my_repositories-181717?style=for-the-badge&logo=github)](https://github.com/mohammed-972?tab=repositories)
 [![Project](https://img.shields.io/badge/See_my_latest_build-0969da?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/mohammed-972/terraform-ecs-pomodoro)
 
-**Thanks for visiting!** 👋
+**Thanks for visiting!** 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=95&color=0:0B1220,50:0969DA,100:28C7FA" width="100%" alt="Decorative footer" />
 
